@@ -1,0 +1,10 @@
+main.c:77:5:char_to_int	16	static
+main.c:102:5:us_al	24	static
+main.c:108:5:veri_al_derece	40	static
+main.c:128:5:veri_al_dakika	48	static
+main.c:152:5:main	16	static
+main.c:232:6:SystemClock_Config	88	static
+main.c:275:13:MX_USART1_UART_Init	8	static
+main.c:308:13:MX_USART2_UART_Init	8	static
+main.c:341:13:MX_GPIO_Init	16	static
+main.c:358:6:Error_Handler	4	static
